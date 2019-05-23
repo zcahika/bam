@@ -1,2 +1,2 @@
-print( 'Bye')
-print('Cool')
+def add(a,b):
+  return a + b 
